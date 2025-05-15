@@ -7,7 +7,7 @@ const services = [
     title: "Model",
     description:
       "Detailed 3D structures and models for Minecraft environments and builds",
-    image: "https://i.supa.codes/DVUjzf",
+    image: "https://i.supa.codes/jDOnBQ",
     slug: "model",
   },
   {
@@ -28,20 +28,20 @@ const services = [
     title: "Skins",
     description:
       "Unique and personalized character skins with attention to detail",
-    image: "https://i.supa.codes/EX3MUq",
+    image: "https://i.supa.codes/EDNuGJ",
     slug: "skins",
   },
   {
     title: "Thumbnail",
     description: "Eye-catching thumbnails to showcase your Minecraft content",
-    image: "https://i.supa.codes/kK0ASs",
+    image: "https://i.supa.codes/A2YU0Q",
     slug: "thumbnail",
   },
   {
     title: "Render Art",
     description:
       "High-quality rendered art pieces that highlight your Minecraft creations",
-    image: "https://i.supa.codes/x6ualV",
+    image: "https://i.supa.codes/KhImf2",
     slug: "render-art",
   },
 ];
