@@ -2,16 +2,32 @@ import { useState, useEffect } from "react";
 
 const sliderImages = [
   {
-    url: "https://i.supa.codes/VCxfZR",
-    alt: "Minecraft Model Design",
+    url: "https://i.supa.codes/7ZauxO",
+    alt: "Arteon Studio Banner",
   },
   {
-    url: "https://i.supa.codes/EX3MUq",
-    alt: "Pixel Art Design",
+    url: "https://i.supa.codes/c89QbW",
+    alt: "Arteon Studio Banner",
   },
   {
-    url: "https://i.supa.codes/x6ualV",
-    alt: "Render Art Model",
+    url: "https://i.supa.codes/UgXrJT",
+    alt: "Arteon Studio Banner",
+  },
+  {
+    url: "https://i.supa.codes/3Q9YMj",
+    alt: "Arteon Studio Banner",
+  },
+  {
+    url: "https://i.supa.codes/Y5Zofo",
+    alt: "Arteon Studio Banner",
+  },
+  {
+    url: "https://i.supa.codes/EtSKZr",
+    alt: "Arteon Studio Banner",
+  },
+  {
+    url: "https://i.supa.codes/EtSKZr",
+    alt: "Arteon Studio Banner",
   },
 ];
 
